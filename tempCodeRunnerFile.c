@@ -1,0 +1,1 @@
+del_line(read_line);

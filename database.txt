@@ -1,0 +1,3 @@
+1002 Aung_Aung qwerty 19 2000 USA
+1004 john mnbh 40 1000 canada
+1001 ThawZinThant asdf 15 10000 Japan
